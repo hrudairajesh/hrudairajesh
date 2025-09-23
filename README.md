@@ -1,67 +1,70 @@
-<h1 align="left">Alex Zhou</h1>
+# Hrudai Rajesh
 
-Electrical Engineering Student @ UBC • Vancouver, BC  
-🌐 https://alexzhou.ca • 🔗 [LinkedIn](https://www.linkedin.com/in/aqzhou)
-
----
-
-### Interests
-- **FPGA Applications** – hardware acceleration & reconfigurable computing
-- **Distributed Computing**
-- **Signal Processing & Communications**
-- Currently learning ML (training & deployment of **distributed neural networks**)
+📍 Vancouver, BC  
+🎓 Electrical Engineering Student @ University of British Columbia (Dean’s Honour List 2025)  
+🌐 [LinkedIn](https://www.linkedin.com/in/hrudai-rajesh-24793125b) • 📧 hrajesh@student.ubc.ca  
 
 ---
 
-### Languages & Skills
+## Interests
+- **Power Systems & Distribution Planning** – utility workflows, load forecasting, and reliability analysis  
+- **Embedded Systems & FPGA Applications** – microcontrollers, HDL, and reconfigurable computing  
+- **Signal Processing & Communications** – circuit design, debugging, and systems optimization  
+- **Machine Learning Applications** – forecasting, automation, and API/data integration  
+
+---
+
+## Languages & Skills
 
 #### Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&labelColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-FF8C00?logo=matlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-6E4C13" />
+  <img src="https://img.shields.io/badge/Verilog-8A2BE2" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Scraping-4285F4" />
+  <img src="https://img.shields.io/badge/API%20Integration-FF6F00" />
 </p>
 
-#### HDL / EDA
+#### Software & Tools
 <p>
-  <img src="https://img.shields.io/badge/Verilog-8A2BE2?labelColor=000000" />
-  <img src="https://img.shields.io/badge/SystemVerilog-8A2BE2?labelColor=000000" />
-  <img src="https://img.shields.io/badge/Intel%20Quartus-0071C5?labelColor=000000" />
-  <img src="https://img.shields.io/badge/Qsys-0071C5?labelColor=000000" />
-  <img src="https://img.shields.io/badge/SignalTap%20/Program%20Monitor-0071C5?labelColor=000000" />
+  <img src="https://img.shields.io/badge/PCB%20Design-1E90FF" />
+  <img src="https://img.shields.io/badge/GIS-228B22" />
+  <img src="https://img.shields.io/badge/CYME%20DIST-8B0000" />
+  <img src="https://img.shields.io/badge/NI%20Multisim-FFD700" />
+  <img src="https://img.shields.io/badge/LTSpice-32CD32" />
+  <img src="https://img.shields.io/badge/Fusion%20360-FF4500" />
+  <img src="https://img.shields.io/badge/SolidWorks-DC143C" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
 </p>
 
-#### ML / Scientific
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?labelColor=000000" />
-  <img src="https://img.shields.io/badge/MATLAB-FF8C00?labelColor=000000" />
-</p>
-
-#### Tools & Other
-<p>
-  <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Assembly-6E4C13?labelColor=000000" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&labelColor=000000" />
-</p>
+#### Lab & Hardware
+- Oscilloscopes, DMM, FPGA boards, PCB prototyping  
+- Circuit debugging, soldering, drill press, microcontroller programming  
 
 ---
 
-### Notable Projects
-- **RISC-V-RV64I-CPU** — a synthesizable 5-stage pipeline CPU (Verilog).  
-- **TicTacToeMinimax** — Minimax AI with optional alpha-beta pruning.  
-*(Pin these repos via “Customize your pins” so they appear at the top of your profile.)*
+## Leadership & Involvement
+- **IEEE UBC Student Branch Chair (2024–25)** – led executive operations, organized career fairs & industry events  
+- **VibeOps Co-Founder & COO** – building GIS-driven web platforms & engineering tools for consulting firms  
 
 ---
 
-### Stats (optional)
+## Pinned Projects
+- **[Reflow Oven Controller (ELEC 291 Project)](https://github.com/aexzhou/ReflowOvenController_ELEC291-Project-1)**  
+  Designed an automated reflow oven controller using 8051 Assembly and C, integrating sensors and UI prototypes.  
+
+- **[ELEC 291 Project 1 – 2.0](https://github.com/aexzhou/ELEC_291_Project1_2.0)**  
+  Debugged and optimized circuits for a metal detector robot; implemented op-amp tuning and assembly-level programming.  
+
+---
+
+## GitHub Stats (optional flair)
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hrudai-rajesh&show_icons=true&hide_border=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrudai-rajesh&layout=compact&hide_border=true" />
 </p>
