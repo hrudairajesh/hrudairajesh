@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/CYME%20DIST-8B0000" />
   <img src="https://img.shields.io/badge/NI%20Multisim-FFD700" />
   <img src="https://img.shields.io/badge/LTSpice-32CD32" />
+  <img src="https://img.shields.io/badge/ETAP-D2143C" />
   <img src="https://img.shields.io/badge/Fusion%20360-FF4500" />
   <img src="https://img.shields.io/badge/SolidWorks-DC143C" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
