@@ -9,9 +9,9 @@
 ---
 
 ## Interests
-- **Power Systems & Distribution Planning** – utility workflows, load forecasting, and reliability analysis  
-- **Embedded Systems & FPGA Applications** – microcontrollers, HDL, and reconfigurable computing  
-- **Signal Processing & Communications** – circuit design, debugging, and systems optimization  
+- **Power Systems & Power Electronics** – utility workflows, power electronics, and reliability analysis  
+- **Embedded Systems & FPGA Applications** – microcontrollers, HDL, and firmware  
+- **Signal Processing & Hardware Engineering** – circuit design, microcontrollers, and PCB design 
 - **Machine Learning Applications** – forecasting, automation, and API/data integration  
 
 ---
@@ -36,24 +36,24 @@
 <p>
   <img src="https://img.shields.io/badge/PCB%20Design-1E90FF" />
   <img src="https://img.shields.io/badge/GIS-228B22" />
-  <img src="https://img.shields.io/badge/CYME%20DIST-8B0000" />
-  <img src="https://img.shields.io/badge/NI%20Multisim-FFD700" />
+  <img src="https://img.shields.io/badge/ETAP-8B0000" />
+  <img src="https://img.shields.io/badge/P%20SIM-FFD700" />
   <img src="https://img.shields.io/badge/LTSpice-32CD32" />
   <img src="https://img.shields.io/badge/ETAP-D2143C" />
-  <img src="https://img.shields.io/badge/Fusion%20360-FF4500" />
-  <img src="https://img.shields.io/badge/SolidWorks-DC143C" />
+  <img src="https://img.shields.io/badge/Solidworks-FF4500" />
+  <img src="https://img.shields.io/badge/KiCAD-DC143C" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
 </p>
 
 #### Lab & Hardware
-- Oscilloscopes, DMM, FPGA boards, PCB prototyping  
+- Oscilloscopes, Logic Analyzers, FPGA boards, PCB prototyping  
 - Circuit debugging, soldering, drill press, microcontroller programming  
 
 ---
 
 ## Leadership & Involvement
 - **IEEE UBC Student Branch Chair (2024–25)** – led executive operations, organized career fairs & industry events  
-- **VibeOps Co-Founder & COO** – building GIS-driven web platforms & engineering tools for consulting firms  
+- **VibeOps Co-Founder & COO (2025-26)** – built GIS-driven web platforms & engineering tools for consulting firms  
 
 ---
 
