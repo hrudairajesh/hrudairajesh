@@ -9,10 +9,10 @@
 ---
 
 ## Interests
-- **Power Systems & Power Electronics** – utility workflows, power electronics, and reliability analysis  
-- **Embedded Systems & FPGA Applications** – microcontrollers, HDL, and firmware  
-- **Signal Processing & Hardware Engineering** – circuit design, microcontrollers, and PCB design 
-- **Machine Learning Applications** – forecasting, automation, and API/data integration  
+- **Power Systems & Power Electronics** - utility workflows, power electronics, and reliability analysis  
+- **Embedded Systems & FPGA Applications** - microcontrollers, HDL, and firmware  
+- **Signal Processing & Hardware Engineering** - circuit design, microcontrollers, and PCB design 
+- **Machine Learning Applications** - forecasting, automation, and API/data integration  
 
 ---
 
