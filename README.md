@@ -52,8 +52,8 @@
 ---
 
 ## Leadership & Involvement
-- **IEEE UBC Student Branch Chair (2024–25)** – led executive operations, organized career fairs & industry events  
-- **VibeOps Co-Founder & COO (2025-26)** – built GIS-driven web platforms & engineering tools for consulting firms  
+- **IEEE UBC Student Branch Chair (2024–25)** - led executive operations, organized career fairs & industry events  
+- **VibeOps Co-Founder & COO (2025-26)** - built GIS-driven web platforms & engineering tools for consulting firms  
 
 ---
 
